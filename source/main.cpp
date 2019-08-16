@@ -60,7 +60,7 @@ int main(int argc,char* argv[])
 		ILOG << "Error message!";
 		WLOG << "Error message!";
 		ELOG << "Error message!";
-        sleep(3);
+        sleep(5);
 	}
 
 	google::ShutdownGoogleLogging();
