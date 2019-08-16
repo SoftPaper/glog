@@ -1,0 +1,2 @@
+# glog
+libglog test.
